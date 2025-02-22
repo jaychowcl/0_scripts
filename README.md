@@ -9,7 +9,9 @@ jaychowcl's personal library of scripts.
 ### General Overview
 
 RESTAPI.py - python template for RESTAPI post and get using request. and json.
+
 win2wsl_path.py - converts windows file paths to wsl file paths. ( / to \)
+
 ldn_plumplot_txt2csv.sh - converts crime stats from [London Crime Maps](https://www.plumplot.co.uk/London-crime-stats.html) to useable csv files.
 
 ## Getting Started
